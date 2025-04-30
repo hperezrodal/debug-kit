@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "message": "This response comes from mock.json",
+    "data": {
+      "user": {
+        "id": 123,
+        "name": "Jane Doe"
+      }
+    }
+  }
+  
