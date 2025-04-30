@@ -1,0 +1,25 @@
+{
+  "name": "simple-file-server",
+  "version": "1.0.0",
+  "description": "A lightweight, secure, and configurable file server",
+  "main": "simple-file-server.js",
+  "scripts": {
+    "start": "node simple-file-server.js",
+    "dev": "nodemon simple-file-server.js"
+  },
+  "keywords": [
+    "file-server",
+    "static",
+    "http",
+    "server"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "formidable": "^3.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+} 
