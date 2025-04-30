@@ -21,6 +21,7 @@ Each tool is small, lightweight, and designed to run locally with minimal setup.
 |-----------------|-----------------------------------------------------|
 | [HTTP Monitor](http-monitor/README.md)    | A simple HTTP proxy that prints requests and responses. |
 | [Request Dumper](request-dumper/README.md) | A simple HTTP server that dumps incoming requests to both console and log file. |
+| [TCP Echo Server](tcp-echo-server/README.md) | A simple TCP server that echoes back any data it receives, with configurable logging and error handling. |
 
 ## Prerequisites
 
